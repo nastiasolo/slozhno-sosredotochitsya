@@ -318,10 +318,6 @@
     margin-block-end: 0;
   }
 
-  .content__pictures .content__article-title {
-    margin-block-end: 0;
-  }
-
   .content__pictures-image {
     height: 100%;
     margin: 0;
@@ -331,6 +327,7 @@
 
   .content__pictures .content__article-title {
     grid-column: 1/4;
+    margin-block-end: 0;
   }
 
   .content__pictures-image:first-of-type {
