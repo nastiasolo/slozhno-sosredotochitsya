@@ -8,8 +8,11 @@
   --buttons-decoration-color: #ff0070;
   --buttons-hover-color: rgb(255, 0, 112, 0.4);
   --accent-color: #ff0070;
+  --decor-color: #ff0070;
   --main-title-color: #db00ff;
   --main-title-shadow-color: #ff0070;
+  --main-title-shadow-color-bigscreen: #ff0070;
+
   --title-color: #ff0070;
   --subtitle-color: #000028;
   --text-color: #f1b2ce;

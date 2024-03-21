@@ -13,6 +13,7 @@
   --bg-img: url(../images/cover-image-light.png);
   --buttons-decoration-color: #353430;
   --buttons-hover-color: rgb(53, 52, 48, 0.4);
+  --decor-color: rgba(53, 52, 48, 0);
   --accent-color: #ff8dcb;
   --main-title-color: #ffc2e6;
   --main-title-shadow-color: #ff8dcb;
