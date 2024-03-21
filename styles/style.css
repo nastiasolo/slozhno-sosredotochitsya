@@ -184,6 +184,10 @@
   font-weight: 400;
 }
 
+.content__pictures .content__description-title {
+  margin-block-end: 10px;
+}
+
 .content__pictures-image {
   width: 100%;
   margin-inline: auto;
@@ -194,7 +198,7 @@
 }
 
 .footer__theme-title {
-  margin: 275px 13px;
+  margin: 257px auto;
   color: var(--main-title-color);
   font-size: clamp(7.25rem, 7.0115rem + 1.0178vw, 7.5rem);
   letter-spacing: -2px;
