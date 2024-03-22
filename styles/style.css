@@ -67,8 +67,8 @@
   position: absolute;
   top: 10px;
   right: 38px;
-  line-height: 25px;
   color: var(--decor-color);
+  line-height: 25px;
 }
 
 .header__theme-decor::after {
@@ -116,8 +116,8 @@
 }
 
 .header__theme-menu-button:focus-visible {
-  outline: none;
   border-bottom: solid 1px currentColor;
+  outline: none;
 }
 
 .header__theme-title {
@@ -167,8 +167,8 @@
 }
 
 .content__description-text {
-  line-height: 23.4px;
   margin-block-start: 10px;
+  line-height: 23.4px;
 }
 
 .content__link {
@@ -251,8 +251,8 @@
   }
 
   .header__theme-text.title-decor {
-    align-self: center;
     justify-self: end;
+    align-self: center;
     max-width: 50%;
   }
 
@@ -352,8 +352,8 @@
   }
 
   .header__theme-menu {
-    align-self: start;
     justify-self: center;
+    align-self: start;
   }
 
   .header__theme-menu-list {
@@ -367,9 +367,9 @@
   }
 
   .header__theme-text.title-decor {
-    max-width: 50%;
-    align-self: center;
     justify-self: end;
+    align-self: center;
+    max-width: 50%;
   }
 
   .content__why .content__description,
